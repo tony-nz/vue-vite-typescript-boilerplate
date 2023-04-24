@@ -24,28 +24,6 @@ To build for production, run:
 
 This will create a `dist` folder containing the optimized production build.
 
-## Folder Structure
-
-The folder structure of this boilerplate is as follows:
-
-`├── public
-│ ├── favicon.ico
-│ └── index.html
-├── src
-│ ├── App.vue
-│ ├── main.ts
-│ ├── assets
-│ │ └── logo.png
-│ ├── components
-│ │ └── HelloWorld.vue
-│ └── styles
-│ └── main.css
-├── package.json
-├── tsconfig.json
-└── vite.config.js`
-
-The `public` folder contains the static assets and the `src` folder contains the application source code.
-
 ## License
 
 This boilerplate is licensed under the [MIT License](LICENSE). Feel free to use it as a starting point for your own Vue3 projects!
